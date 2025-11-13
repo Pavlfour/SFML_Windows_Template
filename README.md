@@ -1,6 +1,6 @@
 # SFML 3.0.0 Static Template  
 
-A minimal and fully-portable ready-to-use **SFML 3.0.0** project template using the following MinGW-w64 toolchain:
+A minimal and fully-portable ready-to-use **SFML 3.0.0** project template for only windows using the following MinGW-w64 toolchain:
 
 **GCC 15.2.0 (POSIX threads) + MinGW-w64 13.0.0 (UCRT) – release 3 — Win64**  
 (without LLVM/Clang/LLD/LLDB)
@@ -11,7 +11,7 @@ This project uses **static linking**, producing a single `Main.exe` with **no DL
 
 ## ✨ Features
 - ✔ **Fully static SFML 3.0.0 build** (no DLLs required)
-- ✔ Runs on **any Windows machine**
+- ✔ Runs on **any Windows machine** (I hope so!)
 - ✔ Includes the entire **MinGW-w64 toolchain**
 - ✔ Simple and clean project structure
 - ✔ Automatic source detection via Makefile
@@ -56,7 +56,7 @@ libopenal.a
 
 which i found them from msys2 ucrt64 lib
 
-## Credits
+## 🔗 Credits
 SFML — https://www.sfml-dev.org
 https://winlibs.com/
 https://www.msys2.org/
