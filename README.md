@@ -44,19 +44,19 @@ project/
 
 ### **Using the batch file**
 Simply double-click:
-build.bat
+-build.bat
 
 ---
 
 ## 📦 Additional Static Libraries
 
 The SFML `lib/` folder also includes:
-libjpeg.a
-libopenal.a
+-libjpeg.a
+-libopenal.a
 
 which i found them from msys2 ucrt64 lib
 
 ## 🔗 Credits
-SFML — https://www.sfml-dev.org
-https://winlibs.com/
-https://www.msys2.org/
+-SFML — https://www.sfml-dev.org
+-https://winlibs.com/
+-https://www.msys2.org/
