@@ -23,20 +23,21 @@ This project uses **static linking**, producing a single `Main.exe` with **no DL
 
 ## 📂 Project Structure
 
+```text
 project/
 │
 ├── Dependencies/
-│ ├── SFML-3.0.0/ # SFML include + static .a libraries
-│ └── mingw64/ # MinGW-w64 compiler toolchain
+│   ├── SFML-3.0.0/        # SFML include + static .a libraries
+│   └── mingw64/           # MinGW-w64 compiler toolchain
 │
 ├── src/
-│ ├── headers/ # Your header files (.hpp/.h)
-│ └── *.cpp # All source files compiled automatically
+│   ├── headers/           # Your header files (.hpp/.h)
+│   └── *.cpp              # All .cpp files compiled automatically
 │
-├── Makefile # Build system
-├── build.bat # Double-click build script
-└── Main.exe # Output executable (after building)
-
+├── Makefile               # Build system
+├── build.bat              # Double-click build script
+└── Main.exe               # Output executable (after building)
+```
 ---
 
 ## 🚀 Building the Project
