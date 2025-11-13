@@ -42,7 +42,7 @@ project/
 
 ## 🚀 Building the Project
 
-### **Option 1 — Using the batch file**
+### **Using the batch file**
 Simply double-click:
 build.bat
 
