@@ -1,6 +1,6 @@
 # SFML 3.0.0 Static Template  
 
-A minimal and fully-portable ready-to-use **SFML 3.0.0** project template for only windows using the following MinGW-w64 toolchain:
+A minimal and fully-portable ready-to-use **SFML 3.0.0** project template for windows only using the following MinGW-w64 toolchain:
 
 **GCC 15.2.0 (POSIX threads) + MinGW-w64 13.0.0 (UCRT) – release 3 — Win64**  
 (without LLVM/Clang/LLD/LLDB)
