@@ -22,7 +22,7 @@ CXXFLAGS := -g -DSFML_STATIC -static -static-libgcc -static-libstdc++ -fdiagnost
 # Add this to remove console : -mwindows
 
 LDFLAGS := $(LIB) \
-    -lsfml-graphics-s -lsfml-window-s -lsfml-audio-s -lsfml-system-s \
+    -lsfml-graphics-s -lsfml-window-s -lsfml-audio-s -lsfml-network-s -lsfml-system-s \
     -lopengl32 -lfreetype -ljpeg -lopenal -lflac -lvorbisenc -lvorbisfile -lvorbis -logg \
     -lwinmm -lgdi32 -ldsound -luser32 -lkernel32 \
 	-lws2_32 -lbcrypt -ladvapi32
