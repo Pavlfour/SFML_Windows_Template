@@ -7,7 +7,7 @@ rem Change directory to the location of this BAT file
 cd /d "%~dp0"
 
 rem Add MinGW bin folder to PATH (relative to this script)
-set "PATH=%PATH%;%~dp0Dependencies\mingw64\bin"
+set "PATH=%~dp0Dependencies\mingw64\bin;%PATH%"
 
 rem Run the build
 mingw32-make rebuild
