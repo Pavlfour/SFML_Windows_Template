@@ -56,6 +56,13 @@ The SFML `lib/` folder also includes:
 
 which i found them from msys2 ucrt64 lib
 
+---
+
+## 🎥 Demo
+- https://www.youtube.com/watch?v=HaMDMlbyHoo
+
+---
+
 ## 🔗 Credits
 - https://www.sfml-dev.org
 - https://winlibs.com/
